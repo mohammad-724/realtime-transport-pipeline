@@ -1,3 +1,5 @@
+readme url: https://mohammad-724.github.io/realtime-transport-pipeline/
+
 # Real-Time Public Transport Data Pipeline
 
 A simple, professional Data Engineering project that simulates live public-transport telemetry and processes it through:
