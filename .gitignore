@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+*.log
+spark-warehouse/
+checkpoint/
+logs/
+.DS_Store
+Thumbs.db
