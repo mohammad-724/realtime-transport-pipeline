@@ -1,10 +1,10 @@
-readme url: https://mohammad-724.github.io/realtime-transport-pipeline/
+readme url: https://mohammad-724.github.io/realtime-transport-pipeline
 
 # Real-Time Public Transport Data Pipeline
 
 A simple, professional Data Engineering project that simulates live public-transport telemetry and processes it through:
 
-**Python → Apache Kafka → Spark Structured Streaming → MySQL**
+**Python → Kafka → Spark Structured Streaming → MySQL**
 
 This project is designed for local Windows development **without Docker**.
 
